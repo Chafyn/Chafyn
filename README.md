@@ -1,4 +1,4 @@
-# 👋 Hi, I’m ChafynH
+# 👋 Hi, I’m Chafyn
 
 I’m a **technical writer** with a background in **multilingual documentation** (German → English, Spanish → English).  
 I’m now building a portfolio that highlights my ability to create **clear, user-friendly documentation** for technical tools and workflows.
